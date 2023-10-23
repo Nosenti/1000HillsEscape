@@ -80,7 +80,7 @@ While I implemented the project alone, I will act as if it was developed with a 
 
 - The project has authentication and backed which is taken care of by Supabase. That means you need to login (does not have signup because the users are added by someone who is logged in). To access all parts of the app, I will give you login credentials if you are a recruiter (in my application) or want to learn more about it.
 - This is a portfolio project, not deployed to work in the real world.
-- To access its hosted version, go on https://the-wild-oasis-seven-gamma.vercel.app/login. You will need the same credentials where you are using local project or the hosted one. they both use the same backend. If you have any questions for difficulty, shoot me an email at innocentingabire01@gmail.com
+- To access its hosted version, go on https://1000-hills-escape-jtx095tw5-nosenti.vercel.app/login. You will need the same credentials where you are using local project or the hosted one. they both use the same backend. If you have any questions for difficulty, shoot me an email at innocentingabire01@gmail.com
 
 ### Prerequisites
 
@@ -93,7 +93,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the Project Name, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/Nosenti/the-wild-oasis`
+1. Clone the repository to your local machine: `git clone https://github.com/Nosenti/1000HillsEscape`
 2. Navigate to the project
 3. Install the project dependencies using `npm install`
 
